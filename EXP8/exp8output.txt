@@ -1,0 +1,7 @@
+Enter date (DD/MM/YY): 15/06/26
+Code is valid
+Text valid 
+Text valid
+I am studying in Jain University and I am learning Java
+['1234']
+Valid date
