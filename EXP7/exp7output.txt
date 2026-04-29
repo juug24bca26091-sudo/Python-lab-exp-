@@ -1,0 +1,35 @@
+<------CLASS & OBJECT-------->
+x + y:  60
+y - x:  40
+x * y:  500
+x / y:  0.2
+
+<------------SINGLE INHERTANCE------------->
+This is parent class A
+This is child class B
+
+<------------MULTIPLE INHERTANCE------------->
+Class C: Hello
+Class D: Jain
+Class E: University
+
+<------------MULTILEVEL INHERTANCE------------->
+Class F
+Class G
+Class H
+
+<------------HIERARCHICAL INHERITANCE------------->
+Class I: x = 10
+Class J: x + y = 15
+Class I: x = 10
+Class K: x + z = 13
+
+<------------HYBRID INHERITANCE------------->
+Class L: x = 10
+Class M: y = 5
+Class N: z = 3
+Class O: x + y + z = 18
+
+<------------POLYMORPHISM------------->
+Add: 15
+Multiply: 50
